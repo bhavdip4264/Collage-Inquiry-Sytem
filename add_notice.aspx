@@ -1,7 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="add_notice.aspx.cs" Inherits="add_notice" %>
 
 <!DOCTYPE html>
-anilllllllllllllllllllllllllllllllllllllllllllllllll
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Admin Menu</title>
